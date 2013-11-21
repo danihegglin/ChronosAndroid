@@ -1,5 +1,4 @@
 ChronoSyncAndroid
 ==========
 
-sync library for multiuser realtime applications for NDN
-this fork is an attempt to use chronosync on android
+This is a fork of ChronoSync and an attempt to combine ChronoSync and the NDNx Android implementation
