@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JUnits1" duration-ms="169" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+    <groups>
+    </groups>
+    <test name="JU1" duration-ms="169" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+      <class name="org.ndnx.ndn.protocol.NDNTimeTest">
+        <test-method status="PASS" signature="testSetTime()[pri:0, instance:testSetTime(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testSetTime" duration-ms="25" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testSetTime -->
+        <test-method status="PASS" signature="testSetNanos()[pri:0, instance:testSetNanos(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testSetNanos" duration-ms="2" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testSetNanos -->
+        <test-method status="PASS" signature="testNDNTimeLong()[pri:0, instance:testNDNTimeLong(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testNDNTimeLong" duration-ms="2" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testNDNTimeLong -->
+        <test-method status="PASS" signature="testNDNTimeTimestamp()[pri:0, instance:testNDNTimeTimestamp(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testNDNTimeTimestamp" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testNDNTimeTimestamp -->
+        <test-method status="PASS" signature="testNDNTimeDate()[pri:0, instance:testNDNTimeDate(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testNDNTimeDate" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testNDNTimeDate -->
+        <test-method status="PASS" signature="testNDNTime()[pri:0, instance:testNDNTime(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testNDNTime" duration-ms="2" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testNDNTime -->
+        <test-method status="PASS" signature="testCompareToDate()[pri:0, instance:testCompareToDate(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testCompareToDate" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testCompareToDate -->
+        <test-method status="PASS" signature="testCompareToTimestamp()[pri:0, instance:testCompareToTimestamp(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testCompareToTimestamp" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testCompareToTimestamp -->
+        <test-method status="PASS" signature="testBeforeAfterTimestamp()[pri:0, instance:testBeforeAfterTimestamp(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testBeforeAfterTimestamp" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testBeforeAfterTimestamp -->
+        <test-method status="PASS" signature="testBeforeAfterDate()[pri:0, instance:testBeforeAfterDate(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testBeforeAfterDate" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testBeforeAfterDate -->
+        <test-method status="PASS" signature="testNow()[pri:0, instance:testNow(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testNow" duration-ms="2" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testNow -->
+        <test-method status="PASS" signature="testBinaryArray()[pri:0, instance:testBinaryArray(org.ndnx.ndn.protocol.NDNTimeTest)]" name="testBinaryArray" duration-ms="1" started-at="2013-12-11T15:59:44Z" finished-at="2013-12-11T15:59:44Z">
+        </test-method> <!-- testBinaryArray -->
+      </class> <!-- org.ndnx.ndn.protocol.NDNTimeTest -->
+    </test> <!-- JU1 -->
+  </suite> <!-- JUnits1 -->
+</testng-results>

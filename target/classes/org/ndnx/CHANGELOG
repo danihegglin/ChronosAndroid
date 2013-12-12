@@ -1,0 +1,24 @@
+Interim changes after NDNx v0.3 (2013-11-14)
+--------------------------------------------
+Bug fixes
+* http://redmine.named-data.net/issues/1056 Fix DTAG NDNProtocolDataUnit to encode as "NDN\202\000"
+
+NDNx v0.3 (2013-11-08)
+----------------------
+Bug fixes
+* http://redmine.named-data.net/issues/1055 'ndndsmoketest status -x' broken on Linux
+* http://redmine.named-data.net/issues/1070 Support CYGWIN_NT-6.1
+
+NDNx v0.2 (2013-10-03)
+----------------------
+Changes
+* http://redmine.named-data.net/issues/1046 Changed port number from 9695 to 6363.  If interoperating with CCNx, see
+  http://named-data.net/codebase/platform/moving-to-ndnx/#Things_to_watch_out_for_using_NDNx
+
+NDNx v0.1 (2013-08-23)
+----------------------
+
+Initial public release.
+
+Based on CCNx version 0.7.2. 
+https://github.com/ProjectCCNx/ccnx/tree/ccnx-0.7.2
